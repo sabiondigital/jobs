@@ -6,7 +6,7 @@
 
 O objetivo deste teste é nos permitir avaliar seu conhecimento técnico e analisarmos se você se encaixa no perfil que estamos procurando.
 
-Download do layout: **[PSD](./material/front_challenge.psd)** / **[PNG](./material/front_challenge.png)**
+Download do layout: **[PSD](./material/front_challenge.psd)** / **[JPG](./material/front_challenge.jpg)**
 
 ## Esperamos que você...
 
