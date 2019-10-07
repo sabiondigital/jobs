@@ -27,6 +27,6 @@ Descreva os detalhes de engenharia de software que você utilizou nesta implemen
 
 * Implemente o desafio na sua conta no Github;
 * Conclua e suba os arquivos para o seu repositório no Github;
-* Envie um e-mail para <a href="mailto:andre.almeida@sabion.com.br">andre.almeida@sabion.com.br</a> e nos informe a url do seu fork.
+* Envie um e-mail para <a href="mailto:renata.costa@sabion.com.br">renata.costa@sabion.com.br</a> e nos informe a url do seu fork.
 
 _Um até logo e boa sorte!_
