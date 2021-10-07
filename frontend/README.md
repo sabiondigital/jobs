@@ -28,6 +28,6 @@ Seu projeto será avaliado por nós de acordo com a qualidade do código enviado
 * Faça um "fork" deste projeto para sua conta no Github;
 * Implemente o projeto em seu próprio fork;
 * Conclua e suba os arquivos para o seu repositório no Github;
-* Envie um e-mail para <a href="mailto:renata.costa@sabion.com.br">renata.costa@sabion.com.br</a> e nos informe a url do seu fork.
+* Envie um e-mail para <a href="mailto:talitta.cavalcante@sabion.com.br">talitta.cavalcante@sabion.com.br</a> e nos informe a url do seu fork.
 
 _Um até logo e boa sorte!_
